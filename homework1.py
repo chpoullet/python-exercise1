@@ -20,9 +20,6 @@ name = input()
 print('Last name:   ')
 last_name = input()
 
-print('Species:'   )
-species = input()
-
 print('Your eye colour: ')
 eye_colour = input()
 
@@ -34,4 +31,4 @@ age = int(input())
 
 year_born = 2020 - age
 
-print(f"Your name is {name} {last_name}, you are a {species}, your eye colour is {eye_colour}, your hair is {hair_colour}, you are {age} years old and were born in {year_born}.")
+print(f"Your name is {name} {last_name}, your eye colour is {eye_colour}, your hair is {hair_colour}, you are {age} years old and were born in {year_born}.")
