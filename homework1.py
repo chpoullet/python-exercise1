@@ -32,8 +32,7 @@ age = int(input().strip())
 
 year_born = 2020 - age
 
-<<<<<<< HEAD
 print(f"Your name is {name} {last_name}, your eye colour is {eye_colour}, your hair is {hair_colour}, you are {age} years old and was born in {year_born}.")
-=======
+
 print(f"Your name is {name} {last_name}, your eye colour is {eye_colour}, your hair is {hair_colour}, you are {age} years old and were born in {year_born}.")
->>>>>>> 8aa3d5599fd3396fb2975e8d5baf7112bd1a3f68
+
